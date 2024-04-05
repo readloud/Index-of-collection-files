@@ -3,7 +3,7 @@ Hiren's BootCD Archive | dos-versions
 
 [Go up](/)
 
-| File Name | Hashes |           | File Size | Date |
+| File Name | Description | Hashes | File Size | Modified |
 | --------- | ------ | --------- | --------- | ---- |
 | [Hirens.BootCD.10.0.zip](https://archive.hirensbootcd.org/dos-versions/Hirens.BootCD.10.0.zip) | ZIP md5: 7a8642d4f284b5dad0ba96b241a6cf36 | ISO md5: d81669070c5d1a0c4b2a4daac0ef1cab | 185.8 MiB | 2024-03-06T12:47:11.455Z |
 | [Hirens.BootCD.10.1.zip](https://archive.hirensbootcd.org/dos-versions/Hirens.BootCD.10.1.zip) | ZIP md5: 75c2bd9284a9adda2ec9c10a0aa44e4c | ISO md5: 1e4c9cf1b18dfb79d8bc31f8d090863f | 193.5 MiB | 2024-03-06T12:47:43.483Z |
