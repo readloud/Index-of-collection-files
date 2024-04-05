@@ -3,21 +3,7 @@
 [Hiren's BootCD Archive](https://archive.hirensbootcd.org/) / [dos-versions](https://archive.hirensbootcd.org/dos-versions/) /
 ==============================================================================================================================
 
-Name
-
-Description
-
-Size
-
-Modified
-
-[Go up](https://archive.hirensbootcd.org/)
-
-—
-
-—
-
-—
+[Go up](/)
 
 [Hirens.BootCD.10.0.zip](https://archive.hirensbootcd.org/dos-versions/Hirens.BootCD.10.0.zip)
 
