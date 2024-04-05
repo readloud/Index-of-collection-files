@@ -11,7 +11,7 @@ Size
 
 Modified
 
-[Go up](https://archive.hirensbootcd.org/)
+[Go up](/)
 
 —
 
