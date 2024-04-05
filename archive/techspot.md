@@ -1,6 +1,4 @@
-Kali Linux 2024.1 
-
-[Kali Linux ISO 64-bit](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8533)
+*   [Kali Linux ISO 64-bit](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8533)
 *   [Kali Linux ISO 32-bit](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8534)
 *   [Kali Linux for Apple Silicon](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8537)
 *   [Kali for Raspberry Pi 5](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=11087)
