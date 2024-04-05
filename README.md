@@ -1,13 +1,11 @@
-  index of ISO
+index of ISO
 
-index of LINUX OS familly Hiren's BootCD Archive
+index of LINUX OS familly & Hiren's BootCD Archive
 
 =============================================================
 
-[dos-versions](/archive/dos-versionsmd)
+[Hiren's BootCD DOS Archive](/archive/dos-versions.md)
 
-Hiren's BootCD DOS Archive
+[Hiren's BootCD PE Archive](/archive/pe-versions.md)
 
-[pe-versions](/archive/pe-versions.md)
 
-Hiren's BootCD PE Archive
