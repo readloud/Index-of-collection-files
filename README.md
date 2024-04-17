@@ -6,12 +6,13 @@ index of LINUX OS familly & Hiren's BootCD Archive
 
  > [BACKTRACK Archive](archive/backtrack.md)
 
- > [Hiren's BootCD DOS Archive](archive/dos-versions.md)
-
- > [Hiren's BootCD PE Archive](archive/pe-versions.md)
-
  > [Kali Linux 2024.1 ](archive/techspot.md)
 
  > [Kali Linux Nethunter for Android 2024.1](archive/nethunter.md)
 
+ > [Parrot Security Variant](archive/parrot_security.md)
+
+ > [Hiren's BootCD DOS Archive](archive/dos-versions.md)
+
+ > [Hiren's BootCD PE Archive](archive/pe-versions.md)
 
