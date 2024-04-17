@@ -50,9 +50,9 @@ index of LINUX OS familly & Hiren's BootCD Archive
 
  > [Hiren's BootCD PE Archive](archive/pe-versions.md)
 
- * [Original Sources:] |
+ [Original Sources:]
  	 
- 		 [Kali Linux](https://www.kali.org/) | 
+ [Kali Linux](https://www.kali.org/) | 
  		 [Parrot Security](https://www.parrotsec.org/) | 
  		 [Archive.Org](https://archive.org/details/vintagesoftware) | 
  		 [OSDN Net](https://osdn.net/projects/sfnet_parrotsecurity/releases/#) | 
