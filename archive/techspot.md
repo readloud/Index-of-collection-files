@@ -1,7 +1,7 @@
-Kali Linux 2024.1
-=================
+Kali Linux 2024.1 - Portable
+============================
 
-[Go up](/)
+[parent directory](/archive)
 
 *   [Kali Linux ISO 64-bit](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8533)
 *   [Kali Linux ISO 32-bit](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8534)
@@ -14,4 +14,4 @@ Kali Linux 2024.1
 *   [Windows Net Installer](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=10445)
 *   [Other Platform](https://www.techspot.com/downloads/downloadnow/6738/?evp=7e087af1ea8b1811d5744556949f14ef&file=8540)
 
-  > *techspot
+[Home](/)

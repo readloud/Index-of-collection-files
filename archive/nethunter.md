@@ -1,7 +1,7 @@
 Kali Linux Nethunter for Android 2024.1
 =======================================
 
-[Go up](/)
+[parent directory](/archive)
 
 [Generic ARM64 Lite](https://www.techspot.com/downloads/downloadnow/7187/?evp=94c8572fd879e4ad84cacb2306e4271a&file=11000)
 [Generic ARM64 Minimal](https://www.techspot.com/downloads/downloadnow/7187/?evp=94c8572fd879e4ad84cacb2306e4271a&file=9515)
@@ -23,4 +23,4 @@ Linux Kernel 6.8.3
 [Mainline 6.9 RC2](https://www.techspot.com/downloads/downloadnow/408/?evp=33d0ae0d4a1c3bc28a5105db52bf05b6&file=509)
 [Longterm 6.6.24](https://www.techspot.com/downloads/downloadnow/408/?evp=33d0ae0d4a1c3bc28a5105db52bf05b6&file=508)
 
-	> *techspot
+[Home](/)

@@ -1,7 +1,7 @@
 Hiren's BootCD Archive | dos-versions
 =====================================
 
-[Go up](/)
+[parent directory](/archive)
 
 | File Name | Description | Hashes | File Size | Modified |
 | --------- | ------ | --------- | --------- | ---- |
@@ -55,4 +55,4 @@ Hiren's BootCD Archive | dos-versions
 |[Hirens.BootCD.9.8.zip](https://archive.hirensbootcd.org/dos-versions/Hirens.BootCD.9.8.zip)|ZIP md5: 523dc6c1a015fff11428dfaf60ea1162 | ISO md5: b71a760fee5f3acabb2994de004dec2b|157.4 MiB|2024-03-06T13:11:34.165Z|
 |[Hirens.BootCD.9.9.zip](https://archive.hirensbootcd.org/dos-versions/Hirens.BootCD.9.9.zip)|ZIP md5: 22a26b68095c961cbc5e58cdf388b183 | ISO md5: 9b797871bab60ebe80363a26d167b0a4|177.4 MiB|2024-03-06T13:12:07.025Z|
 
- > *Hiren's BootCD DOS Archive
+[Home](/)
