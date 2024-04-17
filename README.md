@@ -39,7 +39,7 @@ index of LINUX OS familly & Hiren's BootCD Archive
 # Parrot-htb-6.0_amd64.iso
 
 |Name          |Last modified           |Size      |
-|------------- |----------------------- | -------- |          |
+|------------- |----------------------- | -------- | 
 |[Parrot-htb-6.0_amd64.iso](https://archive.org/download/parrot-htb-6.0-amd-64/Parrot-htb-6.0_amd64.iso)[View Contents](https://archive.org/download/parrot-htb-6.0-amd-64/Parrot-htb-6.0_amd64.iso/)|28-Feb-2024 11:49|4.3G|
 |[parrot-htb-6.0-amd-64_archive.torrent](https://archive.org/download/parrot-htb-6.0-amd-64/parrot-htb-6.0-amd-64_archive.torrent)|28-Feb-2024 17:52|23.2K|
 |[parrot-htb-6.0-amd-64_files.xml](https://archive.org/download/parrot-htb-6.0-amd-64/parrot-htb-6.0-amd-64_files.xml)|28-Feb-2024 17:52|1.5K|
@@ -52,10 +52,17 @@ index of LINUX OS familly & Hiren's BootCD Archive
 
  [Original Sources:]
  	 
- [Kali Linux](https://www.kali.org/) | 
- 		 [Parrot Security](https://www.parrotsec.org/) | 
- 		 [Archive.Org](https://archive.org/details/vintagesoftware) | 
- 		 [OSDN Net](https://osdn.net/projects/sfnet_parrotsecurity/releases/#) | 
- 		 [HBCD Archive](https://archive.hirensbootcd.org/) | 
- 		 [ugm.ac.id](http://repo.ugm.ac.id/) | 
- 		 [Techspot.com](ttps://www.techspot.com/downloads/) | 
+[✓] [Kali Linux](https://www.kali.org/)
+
+[✓] [Parrot Security](https://www.parrotsec.org/)
+
+[✓] [Archive.Org](https://archive.org/details/vintagesoftware)
+
+[✓] [OSDN Net](https://osdn.net/projects/sfnet_parrotsecurity/releases/#)
+
+[✓] [HBCD Archive](https://archive.hirensbootcd.org/) 
+
+[✓] [ugm.ac.id](http://repo.ugm.ac.id/)
+
+[✓] [Techspot.com](https://www.techspot.com/downloads/)
+
