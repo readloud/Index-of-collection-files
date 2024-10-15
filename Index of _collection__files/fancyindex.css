@@ -1,0 +1,46 @@
+/** Hacks for Nginx fancyindex, because it kinda sucks */
+@import url("./main.css");
+@import url("./colors-dark.css");
+
+body {
+	margin: 0 1em;
+}
+
+th {
+	background: unset;
+	border: unset;
+}
+
+tr:nth-child(even) {
+	background: unset;
+	border: unset;
+}
+
+table, #list {
+	border-collapse: separate;
+	border-spacing: 0px;
+	border: var(--cn-border-common) var(--cn-card-bg-color);
+	border-radius: var(--cn-border-radius);
+	box-shadow: var(--cn-box-shadow);
+
+	/* Using the footer border for this is weird, but they're good colours... */
+	background: var(--cn-footer-border-color);
+}
+
+#list a {
+	text-decoration: none;
+}
+
+thead > tr > th {
+	background: var(--cn-card-bg-color);
+	border-bottom: var(--cn-border-common) var(--cn-card-border-color);
+}
+
+/* ugh */
+thead > tr > th:first-child {
+	border-top-left-radius: var(--cn-border-radius);
+}
+
+thead > tr > th:last-child {
+	border-top-right-radius: var(--cn-border-radius);
+}
