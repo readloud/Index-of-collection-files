@@ -1,31 +1,7 @@
-```
-         ~ COMPUTERNEWB.COM PRESENTS ~
-                                                  
-                                                  
-                        .:~?7^.                   
-                      :~?PGBBBPY7^.               
-                      ~Y?77JYPGBBBG5?^.           
-                      ~JJ5Y?77?JY55YJ??.          
-                  .~7YPGGBGBP!JJJ~~7???.          
-              :~?YPGBBGPYJ7YP!JJY!!??YP.          
-          .:?5PGBBGPYJ77??7?G!JJY!!7?YP.          
-        :J5!YYGGP?77??JJJJ??G!JJY!YG5YP.          
-        ~Y?!JJPG?7YYJJJJJJ??G!JJY~YBGGP.          
-        ~Y?!YJPG??YJJJJJJJ77G!YYY!YP5YY.          
-        ~Y?!YJPG??YJ????7??55:~7J!??!^.           
-        :??!YJPG?7?77??JYJ!^.   ...               
-         ~!!YJPGJ!JJYYYYJ^                        
-           ^?JGP5?7!~~~:                          
-             .~:              .^!~:   ~?~.        
-                          .^7J5PGGG5J!^:^.        
-                      .~7YPPPP5PPGGP5?^           
-                  .~?5PPP55PPGGPY7^.              
-                  .~?5PGGGGPJ!^.                  
-                      .~7!:.                      
-                                                  
-                                                  
-          ~ THE CRUSTY WINDOWS ARCHIVE 
-             LAST UPDATED APR 6 2024 ~
+# COMPUTERNEWB.COM PRESENTS 
+
+***~ THE CRUSTY WINDOWS ARCHIVE 
+LAST UPDATED APR 6 2024 ~***
 ```          
 Got something cool? Email us at staff@computernewb.com, or join our Discord!: https://discord.gg/9VZMtNXMj7 
 
